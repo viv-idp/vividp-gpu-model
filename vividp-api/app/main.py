@@ -1,29 +1,48 @@
-from fastapi import FastAPI, Request
+import json
 import torch
-import joblib
-from app.model_loader import load_model, predict_log
+import torch.nn as nn
+from fastapi import FastAPI, HTTPException, Request
+from fastapi.middleware.cors import CORSMiddleware
+from app.model_loader import load_model
 
+# ✅ Create FastAPI app
 app = FastAPI()
 
-model = load_model("app/vividp_model.pt")
-vectorizer = joblib.load("app/vectorizer.pkl")
+# ✅ Enable CORS for frontend access
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Replace with frontend domain for production
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
-@app.get("/")
-def home():
-    return {"message": "🔥 vividp Inference API is Running. Use POST /predict to analyze logs."}
+# ✅ Load model and vectorizer
+model, vectorizer = load_model("app/vividp_model.pt", "app/vectorizer.pkl")
 
+# ✅ /predict endpoint
 @app.post("/predict")
-async def predict_log_route(request: Request):
-    data = await request.json()
-    log = data.get("log")
+async def predict(payload: dict):
+    log = payload.get("log")
     if not log:
-        return {"error": "Log input required"}
+        raise HTTPException(status_code=400, detail="Missing 'log' field in payload.")
     
-    vector = vectorizer.transform([log]).toarray()
-    prediction, confidence = predict_log(model, vector)
-    
-    return {
-        "log": log,
-        "prediction": "anomaly" if prediction == 1 else "normal",
-        "confidence": f"{confidence:.2f}"
-    }
+    x = vectorizer.transform([log]).toarray()
+    x_tensor = torch.tensor(x, dtype=torch.float32)
+    with torch.no_grad():
+        output = model(x_tensor)
+    prediction = "anomaly" if output.item() > 0.5 else "normal"
+    confidence = round(float(output.item()), 2)
+    return {"log": log, "prediction": prediction, "confidence": confidence}
+
+# ✅ /anomalies endpoint
+@app.get("/anomalies")
+async def get_anomalies():
+    try:
+        with open("app/anomaly_store.json", "r") as f:
+            lines = f.readlines()
+            return [json.loads(line) for line in lines]
+    except FileNotFoundError:
+        return []
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
