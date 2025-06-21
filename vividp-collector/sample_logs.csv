@@ -1,0 +1,1001 @@
+log	label
+Service created successfully	0
+Failed to pull image: rpc error unknown	1
+Liveness probe failed: HTTP probe failed	1
+Volume mounted at /data	0
+ImagePullBackOff: failed to pull image nginx:abc	1
+Failed to pull image: rpc error unknown	1
+ConfigMap mounted successfully	0
+Container started successfully	0
+ImagePullBackOff: failed to pull image nginx:abc	1
+Node joined the cluster	0
+Node joined the cluster	0
+MountVolume.SetUp failed: configmap not found	1
+Error: CrashLoopBackOff	1
+Liveness probe passed for container app	0
+Error syncing pod: failed to 'StartContainer'	1
+Readiness probe failed: timeout	1
+Error: CrashLoopBackOff	1
+Liveness probe failed: HTTP probe failed	1
+Liveness probe passed for container app	0
+MountVolume.SetUp failed: configmap not found	1
+Volume mounted at /data	0
+Node not ready: DiskPressure	1
+Liveness probe passed for container app	0
+Failed scheduling pod: Insufficient memory	1
+Successfully pulled image nginx:latest	0
+Failed scheduling pod: Insufficient memory	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+Container started successfully	0
+Liveness probe passed for container app	0
+Node not ready: DiskPressure	1
+Container started successfully	0
+Error syncing pod: failed to 'StartContainer'	1
+Error: CrashLoopBackOff	1
+MountVolume.SetUp failed: configmap not found	1
+Liveness probe passed for container app	0
+OOMKilled due to memory leak	1
+Deployment scaled up successfully	0
+Failed to pull image: rpc error unknown	1
+Deployment scaled up successfully	0
+Node joined the cluster	0
+Deployment scaled up successfully	0
+Service created successfully	0
+Pod scheduled on node gke-node-1	0
+ImagePullBackOff: failed to pull image nginx:abc	1
+MountVolume.SetUp failed: configmap not found	1
+Failed scheduling pod: Insufficient memory	1
+Failed scheduling pod: Insufficient memory	1
+Container started successfully	0
+Error syncing pod: failed to 'StartContainer'	1
+Successfully pulled image nginx:latest	0
+Failed to pull image: rpc error unknown	1
+ConfigMap mounted successfully	0
+Liveness probe passed for container app	0
+Service created successfully	0
+Pod scheduled on node gke-node-1	0
+Failed to pull image: rpc error unknown	1
+Error: CrashLoopBackOff	1
+MountVolume.SetUp failed: configmap not found	1
+Liveness probe failed: HTTP probe failed	1
+Node not ready: DiskPressure	1
+Pod scheduled on node gke-node-1	0
+ImagePullBackOff: failed to pull image nginx:abc	1
+Volume mounted at /data	0
+Error: CrashLoopBackOff	1
+ConfigMap mounted successfully	0
+Error: CrashLoopBackOff	1
+Volume mounted at /data	0
+ImagePullBackOff: failed to pull image nginx:abc	1
+Pod scheduled on node gke-node-1	0
+MountVolume.SetUp failed: configmap not found	1
+Failed to pull image: rpc error unknown	1
+Pod scheduled on node gke-node-1	0
+Node not ready: DiskPressure	1
+Node not ready: DiskPressure	1
+Failed to pull image: rpc error unknown	1
+Error syncing pod: failed to 'StartContainer'	1
+Volume mounted at /data	0
+ConfigMap mounted successfully	0
+Successfully pulled image nginx:latest	0
+Deployment scaled up successfully	0
+Failed to pull image: rpc error unknown	1
+Error syncing pod: failed to 'StartContainer'	1
+Liveness probe passed for container app	0
+ImagePullBackOff: failed to pull image nginx:abc	1
+Node not ready: DiskPressure	1
+Failed to pull image: rpc error unknown	1
+OOMKilled due to memory leak	1
+Readiness probe failed: timeout	1
+Successfully pulled image nginx:latest	0
+Successfully pulled image nginx:latest	0
+Readiness probe failed: timeout	1
+Node not ready: DiskPressure	1
+Successfully pulled image nginx:latest	0
+Volume mounted at /data	0
+Pod scheduled on node gke-node-1	0
+Service created successfully	0
+Node not ready: DiskPressure	1
+Successfully pulled image nginx:latest	0
+Service created successfully	0
+Readiness probe failed: timeout	1
+ConfigMap mounted successfully	0
+Error syncing pod: failed to 'StartContainer'	1
+Volume mounted at /data	0
+Container started successfully	0
+Readiness probe failed: timeout	1
+Volume mounted at /data	0
+Volume mounted at /data	0
+Readiness probe failed: timeout	1
+Volume mounted at /data	0
+Readiness probe failed: timeout	1
+Service created successfully	0
+Failed to pull image: rpc error unknown	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+Successfully pulled image nginx:latest	0
+Error: CrashLoopBackOff	1
+Node not ready: DiskPressure	1
+ConfigMap mounted successfully	0
+Node not ready: DiskPressure	1
+ConfigMap mounted successfully	0
+Readiness probe failed: timeout	1
+Ingress configured correctly	0
+Volume mounted at /data	0
+Error syncing pod: failed to 'StartContainer'	1
+Container started successfully	0
+Liveness probe passed for container app	0
+OOMKilled due to memory leak	1
+Deployment scaled up successfully	0
+Container started successfully	0
+Service created successfully	0
+ConfigMap mounted successfully	0
+Liveness probe passed for container app	0
+Error syncing pod: failed to 'StartContainer'	1
+Node not ready: DiskPressure	1
+MountVolume.SetUp failed: configmap not found	1
+OOMKilled due to memory leak	1
+Node joined the cluster	0
+Volume mounted at /data	0
+ImagePullBackOff: failed to pull image nginx:abc	1
+MountVolume.SetUp failed: configmap not found	1
+Readiness probe failed: timeout	1
+Ingress configured correctly	0
+Error: CrashLoopBackOff	1
+Container started successfully	0
+Error syncing pod: failed to 'StartContainer'	1
+Node joined the cluster	0
+MountVolume.SetUp failed: configmap not found	1
+Liveness probe passed for container app	0
+Liveness probe passed for container app	0
+ImagePullBackOff: failed to pull image nginx:abc	1
+Successfully pulled image nginx:latest	0
+Ingress configured correctly	0
+ConfigMap mounted successfully	0
+Service created successfully	0
+Node joined the cluster	0
+MountVolume.SetUp failed: configmap not found	1
+Liveness probe passed for container app	0
+Deployment scaled up successfully	0
+Node joined the cluster	0
+Service created successfully	0
+OOMKilled due to memory leak	1
+Node not ready: DiskPressure	1
+Node not ready: DiskPressure	1
+Deployment scaled up successfully	0
+Failed to pull image: rpc error unknown	1
+ConfigMap mounted successfully	0
+Deployment scaled up successfully	0
+MountVolume.SetUp failed: configmap not found	1
+Deployment scaled up successfully	0
+Volume mounted at /data	0
+Error: CrashLoopBackOff	1
+Ingress configured correctly	0
+MountVolume.SetUp failed: configmap not found	1
+Liveness probe passed for container app	0
+Readiness probe failed: timeout	1
+Node joined the cluster	0
+Ingress configured correctly	0
+Error syncing pod: failed to 'StartContainer'	1
+Readiness probe failed: timeout	1
+Volume mounted at /data	0
+ImagePullBackOff: failed to pull image nginx:abc	1
+Pod scheduled on node gke-node-1	0
+Ingress configured correctly	0
+Node joined the cluster	0
+ConfigMap mounted successfully	0
+Liveness probe failed: HTTP probe failed	1
+MountVolume.SetUp failed: configmap not found	1
+Readiness probe failed: timeout	1
+Deployment scaled up successfully	0
+Container started successfully	0
+Readiness probe failed: timeout	1
+OOMKilled due to memory leak	1
+Deployment scaled up successfully	0
+Failed to pull image: rpc error unknown	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+ConfigMap mounted successfully	0
+Ingress configured correctly	0
+Liveness probe failed: HTTP probe failed	1
+Volume mounted at /data	0
+OOMKilled due to memory leak	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+Volume mounted at /data	0
+Failed to pull image: rpc error unknown	1
+Liveness probe failed: HTTP probe failed	1
+Successfully pulled image nginx:latest	0
+Node joined the cluster	0
+Node not ready: DiskPressure	1
+Deployment scaled up successfully	0
+Service created successfully	0
+Ingress configured correctly	0
+Container started successfully	0
+Ingress configured correctly	0
+Successfully pulled image nginx:latest	0
+Node joined the cluster	0
+Liveness probe passed for container app	0
+Volume mounted at /data	0
+ImagePullBackOff: failed to pull image nginx:abc	1
+ConfigMap mounted successfully	0
+OOMKilled due to memory leak	1
+Deployment scaled up successfully	0
+Ingress configured correctly	0
+Pod scheduled on node gke-node-1	0
+Pod scheduled on node gke-node-1	0
+ConfigMap mounted successfully	0
+Failed scheduling pod: Insufficient memory	1
+Error syncing pod: failed to 'StartContainer'	1
+Volume mounted at /data	0
+Error syncing pod: failed to 'StartContainer'	1
+Deployment scaled up successfully	0
+Liveness probe failed: HTTP probe failed	1
+Node joined the cluster	0
+Node not ready: DiskPressure	1
+Service created successfully	0
+Liveness probe passed for container app	0
+Error: CrashLoopBackOff	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+Error syncing pod: failed to 'StartContainer'	1
+Successfully pulled image nginx:latest	0
+Liveness probe passed for container app	0
+Error syncing pod: failed to 'StartContainer'	1
+Node joined the cluster	0
+Failed to pull image: rpc error unknown	1
+MountVolume.SetUp failed: configmap not found	1
+ConfigMap mounted successfully	0
+Node joined the cluster	0
+Error syncing pod: failed to 'StartContainer'	1
+Service created successfully	0
+Container started successfully	0
+Container started successfully	0
+Ingress configured correctly	0
+Error: CrashLoopBackOff	1
+OOMKilled due to memory leak	1
+Pod scheduled on node gke-node-1	0
+Failed scheduling pod: Insufficient memory	1
+Container started successfully	0
+Node joined the cluster	0
+Failed scheduling pod: Insufficient memory	1
+Successfully pulled image nginx:latest	0
+Liveness probe failed: HTTP probe failed	1
+ConfigMap mounted successfully	0
+ConfigMap mounted successfully	0
+Readiness probe failed: timeout	1
+MountVolume.SetUp failed: configmap not found	1
+Error syncing pod: failed to 'StartContainer'	1
+Pod scheduled on node gke-node-1	0
+Container started successfully	0
+Service created successfully	0
+Error syncing pod: failed to 'StartContainer'	1
+Failed scheduling pod: Insufficient memory	1
+Failed to pull image: rpc error unknown	1
+Volume mounted at /data	0
+Node joined the cluster	0
+Failed scheduling pod: Insufficient memory	1
+Readiness probe failed: timeout	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+Deployment scaled up successfully	0
+Liveness probe passed for container app	0
+MountVolume.SetUp failed: configmap not found	1
+Successfully pulled image nginx:latest	0
+Successfully pulled image nginx:latest	0
+ConfigMap mounted successfully	0
+Volume mounted at /data	0
+Readiness probe failed: timeout	1
+MountVolume.SetUp failed: configmap not found	1
+MountVolume.SetUp failed: configmap not found	1
+Error syncing pod: failed to 'StartContainer'	1
+Liveness probe passed for container app	0
+Failed to pull image: rpc error unknown	1
+OOMKilled due to memory leak	1
+Error: CrashLoopBackOff	1
+Successfully pulled image nginx:latest	0
+Deployment scaled up successfully	0
+Volume mounted at /data	0
+OOMKilled due to memory leak	1
+Successfully pulled image nginx:latest	0
+Deployment scaled up successfully	0
+ImagePullBackOff: failed to pull image nginx:abc	1
+Readiness probe failed: timeout	1
+Service created successfully	0
+Liveness probe passed for container app	0
+Error syncing pod: failed to 'StartContainer'	1
+MountVolume.SetUp failed: configmap not found	1
+Liveness probe failed: HTTP probe failed	1
+Liveness probe failed: HTTP probe failed	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+Readiness probe failed: timeout	1
+Service created successfully	0
+Container started successfully	0
+Service created successfully	0
+Successfully pulled image nginx:latest	0
+Service created successfully	0
+ImagePullBackOff: failed to pull image nginx:abc	1
+Service created successfully	0
+Liveness probe failed: HTTP probe failed	1
+Pod scheduled on node gke-node-1	0
+Volume mounted at /data	0
+Liveness probe passed for container app	0
+Failed to pull image: rpc error unknown	1
+Error syncing pod: failed to 'StartContainer'	1
+Deployment scaled up successfully	0
+Node not ready: DiskPressure	1
+Node joined the cluster	0
+Readiness probe failed: timeout	1
+Pod scheduled on node gke-node-1	0
+Ingress configured correctly	0
+Liveness probe passed for container app	0
+Error syncing pod: failed to 'StartContainer'	1
+Failed to pull image: rpc error unknown	1
+Pod scheduled on node gke-node-1	0
+Deployment scaled up successfully	0
+Container started successfully	0
+ImagePullBackOff: failed to pull image nginx:abc	1
+Failed scheduling pod: Insufficient memory	1
+Readiness probe failed: timeout	1
+Volume mounted at /data	0
+Error: CrashLoopBackOff	1
+Node joined the cluster	0
+Service created successfully	0
+Failed scheduling pod: Insufficient memory	1
+MountVolume.SetUp failed: configmap not found	1
+Volume mounted at /data	0
+Service created successfully	0
+Failed to pull image: rpc error unknown	1
+Container started successfully	0
+Ingress configured correctly	0
+Service created successfully	0
+Failed to pull image: rpc error unknown	1
+Volume mounted at /data	0
+ImagePullBackOff: failed to pull image nginx:abc	1
+Liveness probe failed: HTTP probe failed	1
+Liveness probe passed for container app	0
+Deployment scaled up successfully	0
+Volume mounted at /data	0
+Liveness probe passed for container app	0
+Volume mounted at /data	0
+Liveness probe failed: HTTP probe failed	1
+Container started successfully	0
+Node joined the cluster	0
+Service created successfully	0
+Service created successfully	0
+Readiness probe failed: timeout	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+Liveness probe passed for container app	0
+Pod scheduled on node gke-node-1	0
+Node joined the cluster	0
+Node joined the cluster	0
+Node not ready: DiskPressure	1
+Readiness probe failed: timeout	1
+Failed to pull image: rpc error unknown	1
+Liveness probe failed: HTTP probe failed	1
+Container started successfully	0
+Error: CrashLoopBackOff	1
+Liveness probe failed: HTTP probe failed	1
+Pod scheduled on node gke-node-1	0
+Error syncing pod: failed to 'StartContainer'	1
+Node joined the cluster	0
+Readiness probe failed: timeout	1
+Service created successfully	0
+ConfigMap mounted successfully	0
+Container started successfully	0
+Failed scheduling pod: Insufficient memory	1
+Error syncing pod: failed to 'StartContainer'	1
+MountVolume.SetUp failed: configmap not found	1
+ConfigMap mounted successfully	0
+Node joined the cluster	0
+Service created successfully	0
+Container started successfully	0
+Service created successfully	0
+OOMKilled due to memory leak	1
+Service created successfully	0
+OOMKilled due to memory leak	1
+Failed scheduling pod: Insufficient memory	1
+Ingress configured correctly	0
+Pod scheduled on node gke-node-1	0
+Node not ready: DiskPressure	1
+Node not ready: DiskPressure	1
+Readiness probe failed: timeout	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+Error: CrashLoopBackOff	1
+Deployment scaled up successfully	0
+Liveness probe failed: HTTP probe failed	1
+Failed scheduling pod: Insufficient memory	1
+ConfigMap mounted successfully	0
+Liveness probe passed for container app	0
+Successfully pulled image nginx:latest	0
+MountVolume.SetUp failed: configmap not found	1
+ConfigMap mounted successfully	0
+Error: CrashLoopBackOff	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+Error syncing pod: failed to 'StartContainer'	1
+MountVolume.SetUp failed: configmap not found	1
+Deployment scaled up successfully	0
+MountVolume.SetUp failed: configmap not found	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+OOMKilled due to memory leak	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+Ingress configured correctly	0
+Deployment scaled up successfully	0
+Volume mounted at /data	0
+Liveness probe passed for container app	0
+Deployment scaled up successfully	0
+MountVolume.SetUp failed: configmap not found	1
+Service created successfully	0
+Deployment scaled up successfully	0
+Service created successfully	0
+MountVolume.SetUp failed: configmap not found	1
+Container started successfully	0
+Ingress configured correctly	0
+Error syncing pod: failed to 'StartContainer'	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+Deployment scaled up successfully	0
+Service created successfully	0
+Failed to pull image: rpc error unknown	1
+Failed scheduling pod: Insufficient memory	1
+Readiness probe failed: timeout	1
+Pod scheduled on node gke-node-1	0
+Deployment scaled up successfully	0
+OOMKilled due to memory leak	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+Pod scheduled on node gke-node-1	0
+Volume mounted at /data	0
+Failed scheduling pod: Insufficient memory	1
+Error syncing pod: failed to 'StartContainer'	1
+Deployment scaled up successfully	0
+Successfully pulled image nginx:latest	0
+Failed to pull image: rpc error unknown	1
+Liveness probe failed: HTTP probe failed	1
+Deployment scaled up successfully	0
+Liveness probe passed for container app	0
+Liveness probe failed: HTTP probe failed	1
+Liveness probe failed: HTTP probe failed	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+Error: CrashLoopBackOff	1
+Readiness probe failed: timeout	1
+Pod scheduled on node gke-node-1	0
+Service created successfully	0
+Error: CrashLoopBackOff	1
+ConfigMap mounted successfully	0
+OOMKilled due to memory leak	1
+Container started successfully	0
+Liveness probe failed: HTTP probe failed	1
+Container started successfully	0
+Node not ready: DiskPressure	1
+Node not ready: DiskPressure	1
+Liveness probe passed for container app	0
+Liveness probe failed: HTTP probe failed	1
+MountVolume.SetUp failed: configmap not found	1
+Node not ready: DiskPressure	1
+OOMKilled due to memory leak	1
+Liveness probe passed for container app	0
+ConfigMap mounted successfully	0
+Failed to pull image: rpc error unknown	1
+Node not ready: DiskPressure	1
+Liveness probe passed for container app	0
+Liveness probe passed for container app	0
+ConfigMap mounted successfully	0
+Pod scheduled on node gke-node-1	0
+Node not ready: DiskPressure	1
+Successfully pulled image nginx:latest	0
+Error: CrashLoopBackOff	1
+Failed to pull image: rpc error unknown	1
+Container started successfully	0
+Error syncing pod: failed to 'StartContainer'	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+Error syncing pod: failed to 'StartContainer'	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+Failed to pull image: rpc error unknown	1
+Liveness probe failed: HTTP probe failed	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+Liveness probe passed for container app	0
+Node not ready: DiskPressure	1
+Liveness probe failed: HTTP probe failed	1
+Failed scheduling pod: Insufficient memory	1
+Pod scheduled on node gke-node-1	0
+Node joined the cluster	0
+Successfully pulled image nginx:latest	0
+Volume mounted at /data	0
+Volume mounted at /data	0
+Error syncing pod: failed to 'StartContainer'	1
+Liveness probe passed for container app	0
+OOMKilled due to memory leak	1
+Error syncing pod: failed to 'StartContainer'	1
+Liveness probe passed for container app	0
+Liveness probe failed: HTTP probe failed	1
+Service created successfully	0
+Failed scheduling pod: Insufficient memory	1
+Node joined the cluster	0
+Node joined the cluster	0
+Ingress configured correctly	0
+Ingress configured correctly	0
+Container started successfully	0
+Liveness probe passed for container app	0
+Liveness probe passed for container app	0
+OOMKilled due to memory leak	1
+Readiness probe failed: timeout	1
+Liveness probe failed: HTTP probe failed	1
+Successfully pulled image nginx:latest	0
+Service created successfully	0
+Error: CrashLoopBackOff	1
+Volume mounted at /data	0
+Container started successfully	0
+ConfigMap mounted successfully	0
+Node not ready: DiskPressure	1
+Node not ready: DiskPressure	1
+ConfigMap mounted successfully	0
+Pod scheduled on node gke-node-1	0
+ImagePullBackOff: failed to pull image nginx:abc	1
+ConfigMap mounted successfully	0
+Error syncing pod: failed to 'StartContainer'	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+MountVolume.SetUp failed: configmap not found	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+Pod scheduled on node gke-node-1	0
+Successfully pulled image nginx:latest	0
+Failed scheduling pod: Insufficient memory	1
+Liveness probe passed for container app	0
+Error: CrashLoopBackOff	1
+MountVolume.SetUp failed: configmap not found	1
+Service created successfully	0
+Node joined the cluster	0
+Volume mounted at /data	0
+ImagePullBackOff: failed to pull image nginx:abc	1
+Error: CrashLoopBackOff	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+Liveness probe passed for container app	0
+Container started successfully	0
+Liveness probe failed: HTTP probe failed	1
+Error syncing pod: failed to 'StartContainer'	1
+Service created successfully	0
+ConfigMap mounted successfully	0
+Node not ready: DiskPressure	1
+Liveness probe failed: HTTP probe failed	1
+Pod scheduled on node gke-node-1	0
+OOMKilled due to memory leak	1
+Error: CrashLoopBackOff	1
+Deployment scaled up successfully	0
+ConfigMap mounted successfully	0
+Liveness probe failed: HTTP probe failed	1
+Successfully pulled image nginx:latest	0
+ConfigMap mounted successfully	0
+Error: CrashLoopBackOff	1
+Liveness probe passed for container app	0
+Service created successfully	0
+Ingress configured correctly	0
+Volume mounted at /data	0
+Error syncing pod: failed to 'StartContainer'	1
+Error syncing pod: failed to 'StartContainer'	1
+ConfigMap mounted successfully	0
+MountVolume.SetUp failed: configmap not found	1
+Container started successfully	0
+OOMKilled due to memory leak	1
+Node not ready: DiskPressure	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+Container started successfully	0
+MountVolume.SetUp failed: configmap not found	1
+OOMKilled due to memory leak	1
+Error syncing pod: failed to 'StartContainer'	1
+Readiness probe failed: timeout	1
+ConfigMap mounted successfully	0
+Successfully pulled image nginx:latest	0
+Liveness probe failed: HTTP probe failed	1
+Ingress configured correctly	0
+ConfigMap mounted successfully	0
+Liveness probe failed: HTTP probe failed	1
+MountVolume.SetUp failed: configmap not found	1
+Error syncing pod: failed to 'StartContainer'	1
+Service created successfully	0
+Volume mounted at /data	0
+Pod scheduled on node gke-node-1	0
+Successfully pulled image nginx:latest	0
+MountVolume.SetUp failed: configmap not found	1
+Volume mounted at /data	0
+OOMKilled due to memory leak	1
+Node not ready: DiskPressure	1
+Deployment scaled up successfully	0
+Error: CrashLoopBackOff	1
+Readiness probe failed: timeout	1
+Container started successfully	0
+Liveness probe passed for container app	0
+Volume mounted at /data	0
+Failed scheduling pod: Insufficient memory	1
+Error: CrashLoopBackOff	1
+Readiness probe failed: timeout	1
+Node joined the cluster	0
+Liveness probe failed: HTTP probe failed	1
+Pod scheduled on node gke-node-1	0
+Pod scheduled on node gke-node-1	0
+Container started successfully	0
+Successfully pulled image nginx:latest	0
+ConfigMap mounted successfully	0
+Container started successfully	0
+Service created successfully	0
+Liveness probe passed for container app	0
+ImagePullBackOff: failed to pull image nginx:abc	1
+Failed scheduling pod: Insufficient memory	1
+Failed to pull image: rpc error unknown	1
+Failed scheduling pod: Insufficient memory	1
+Deployment scaled up successfully	0
+Volume mounted at /data	0
+OOMKilled due to memory leak	1
+Service created successfully	0
+Readiness probe failed: timeout	1
+Readiness probe failed: timeout	1
+Error: CrashLoopBackOff	1
+Successfully pulled image nginx:latest	0
+Readiness probe failed: timeout	1
+OOMKilled due to memory leak	1
+ConfigMap mounted successfully	0
+Failed scheduling pod: Insufficient memory	1
+Node joined the cluster	0
+Deployment scaled up successfully	0
+Readiness probe failed: timeout	1
+Error syncing pod: failed to 'StartContainer'	1
+Pod scheduled on node gke-node-1	0
+Pod scheduled on node gke-node-1	0
+Volume mounted at /data	0
+Volume mounted at /data	0
+Node joined the cluster	0
+ImagePullBackOff: failed to pull image nginx:abc	1
+Volume mounted at /data	0
+Failed scheduling pod: Insufficient memory	1
+Deployment scaled up successfully	0
+Readiness probe failed: timeout	1
+Deployment scaled up successfully	0
+Successfully pulled image nginx:latest	0
+ImagePullBackOff: failed to pull image nginx:abc	1
+Error: CrashLoopBackOff	1
+Liveness probe passed for container app	0
+Ingress configured correctly	0
+Node joined the cluster	0
+Failed to pull image: rpc error unknown	1
+Node joined the cluster	0
+OOMKilled due to memory leak	1
+Liveness probe failed: HTTP probe failed	1
+MountVolume.SetUp failed: configmap not found	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+Readiness probe failed: timeout	1
+MountVolume.SetUp failed: configmap not found	1
+Error syncing pod: failed to 'StartContainer'	1
+Node not ready: DiskPressure	1
+Pod scheduled on node gke-node-1	0
+Liveness probe failed: HTTP probe failed	1
+Pod scheduled on node gke-node-1	0
+Node not ready: DiskPressure	1
+Error syncing pod: failed to 'StartContainer'	1
+Error: CrashLoopBackOff	1
+Deployment scaled up successfully	0
+Successfully pulled image nginx:latest	0
+Error: CrashLoopBackOff	1
+ConfigMap mounted successfully	0
+Node joined the cluster	0
+Successfully pulled image nginx:latest	0
+Volume mounted at /data	0
+Ingress configured correctly	0
+Readiness probe failed: timeout	1
+Failed to pull image: rpc error unknown	1
+Liveness probe failed: HTTP probe failed	1
+Pod scheduled on node gke-node-1	0
+ImagePullBackOff: failed to pull image nginx:abc	1
+MountVolume.SetUp failed: configmap not found	1
+Volume mounted at /data	0
+Deployment scaled up successfully	0
+Node not ready: DiskPressure	1
+Error syncing pod: failed to 'StartContainer'	1
+Container started successfully	0
+OOMKilled due to memory leak	1
+Liveness probe failed: HTTP probe failed	1
+Volume mounted at /data	0
+ConfigMap mounted successfully	0
+Liveness probe passed for container app	0
+Ingress configured correctly	0
+Readiness probe failed: timeout	1
+Ingress configured correctly	0
+Failed scheduling pod: Insufficient memory	1
+Liveness probe failed: HTTP probe failed	1
+OOMKilled due to memory leak	1
+ConfigMap mounted successfully	0
+Container started successfully	0
+Service created successfully	0
+ImagePullBackOff: failed to pull image nginx:abc	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+OOMKilled due to memory leak	1
+MountVolume.SetUp failed: configmap not found	1
+Volume mounted at /data	0
+Volume mounted at /data	0
+Readiness probe failed: timeout	1
+Error: CrashLoopBackOff	1
+Node not ready: DiskPressure	1
+Service created successfully	0
+Liveness probe passed for container app	0
+ConfigMap mounted successfully	0
+Node not ready: DiskPressure	1
+Ingress configured correctly	0
+ImagePullBackOff: failed to pull image nginx:abc	1
+Failed to pull image: rpc error unknown	1
+Container started successfully	0
+Error: CrashLoopBackOff	1
+Failed to pull image: rpc error unknown	1
+Liveness probe failed: HTTP probe failed	1
+Container started successfully	0
+Node joined the cluster	0
+Pod scheduled on node gke-node-1	0
+Node joined the cluster	0
+MountVolume.SetUp failed: configmap not found	1
+Liveness probe passed for container app	0
+Node not ready: DiskPressure	1
+Deployment scaled up successfully	0
+Liveness probe passed for container app	0
+Error syncing pod: failed to 'StartContainer'	1
+Liveness probe failed: HTTP probe failed	1
+Ingress configured correctly	0
+Deployment scaled up successfully	0
+Error syncing pod: failed to 'StartContainer'	1
+Ingress configured correctly	0
+Failed scheduling pod: Insufficient memory	1
+Error: CrashLoopBackOff	1
+Liveness probe failed: HTTP probe failed	1
+Node not ready: DiskPressure	1
+Liveness probe passed for container app	0
+Error: CrashLoopBackOff	1
+MountVolume.SetUp failed: configmap not found	1
+Liveness probe passed for container app	0
+Container started successfully	0
+MountVolume.SetUp failed: configmap not found	1
+Liveness probe passed for container app	0
+ImagePullBackOff: failed to pull image nginx:abc	1
+Error: CrashLoopBackOff	1
+Pod scheduled on node gke-node-1	0
+Deployment scaled up successfully	0
+Successfully pulled image nginx:latest	0
+Liveness probe failed: HTTP probe failed	1
+Successfully pulled image nginx:latest	0
+Successfully pulled image nginx:latest	0
+Successfully pulled image nginx:latest	0
+Error: CrashLoopBackOff	1
+Container started successfully	0
+Liveness probe failed: HTTP probe failed	1
+Failed to pull image: rpc error unknown	1
+Successfully pulled image nginx:latest	0
+OOMKilled due to memory leak	1
+ConfigMap mounted successfully	0
+Node not ready: DiskPressure	1
+Successfully pulled image nginx:latest	0
+Volume mounted at /data	0
+Node not ready: DiskPressure	1
+Volume mounted at /data	0
+Volume mounted at /data	0
+Error syncing pod: failed to 'StartContainer'	1
+Failed scheduling pod: Insufficient memory	1
+Liveness probe passed for container app	0
+Liveness probe failed: HTTP probe failed	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+Successfully pulled image nginx:latest	0
+OOMKilled due to memory leak	1
+Pod scheduled on node gke-node-1	0
+Ingress configured correctly	0
+Container started successfully	0
+Container started successfully	0
+Deployment scaled up successfully	0
+Readiness probe failed: timeout	1
+Error: CrashLoopBackOff	1
+Node not ready: DiskPressure	1
+ConfigMap mounted successfully	0
+MountVolume.SetUp failed: configmap not found	1
+Node not ready: DiskPressure	1
+Liveness probe failed: HTTP probe failed	1
+Failed to pull image: rpc error unknown	1
+Failed to pull image: rpc error unknown	1
+ConfigMap mounted successfully	0
+Service created successfully	0
+Liveness probe passed for container app	0
+Liveness probe passed for container app	0
+Node joined the cluster	0
+Node joined the cluster	0
+Failed scheduling pod: Insufficient memory	1
+ConfigMap mounted successfully	0
+Readiness probe failed: timeout	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+MountVolume.SetUp failed: configmap not found	1
+Container started successfully	0
+Successfully pulled image nginx:latest	0
+ConfigMap mounted successfully	0
+Pod scheduled on node gke-node-1	0
+Liveness probe failed: HTTP probe failed	1
+Readiness probe failed: timeout	1
+Node not ready: DiskPressure	1
+Pod scheduled on node gke-node-1	0
+Liveness probe failed: HTTP probe failed	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+Successfully pulled image nginx:latest	0
+MountVolume.SetUp failed: configmap not found	1
+Ingress configured correctly	0
+Ingress configured correctly	0
+Ingress configured correctly	0
+Liveness probe passed for container app	0
+Failed scheduling pod: Insufficient memory	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+OOMKilled due to memory leak	1
+Ingress configured correctly	0
+Pod scheduled on node gke-node-1	0
+Error: CrashLoopBackOff	1
+OOMKilled due to memory leak	1
+Node joined the cluster	0
+ConfigMap mounted successfully	0
+Successfully pulled image nginx:latest	0
+ConfigMap mounted successfully	0
+Liveness probe failed: HTTP probe failed	1
+Failed scheduling pod: Insufficient memory	1
+MountVolume.SetUp failed: configmap not found	1
+Pod scheduled on node gke-node-1	0
+ConfigMap mounted successfully	0
+Successfully pulled image nginx:latest	0
+Failed to pull image: rpc error unknown	1
+Deployment scaled up successfully	0
+ImagePullBackOff: failed to pull image nginx:abc	1
+Failed to pull image: rpc error unknown	1
+Ingress configured correctly	0
+Service created successfully	0
+OOMKilled due to memory leak	1
+Error: CrashLoopBackOff	1
+Error syncing pod: failed to 'StartContainer'	1
+Liveness probe failed: HTTP probe failed	1
+Ingress configured correctly	0
+Failed scheduling pod: Insufficient memory	1
+Service created successfully	0
+Failed to pull image: rpc error unknown	1
+Pod scheduled on node gke-node-1	0
+Deployment scaled up successfully	0
+Deployment scaled up successfully	0
+Readiness probe failed: timeout	1
+Failed to pull image: rpc error unknown	1
+MountVolume.SetUp failed: configmap not found	1
+OOMKilled due to memory leak	1
+MountVolume.SetUp failed: configmap not found	1
+Liveness probe failed: HTTP probe failed	1
+Service created successfully	0
+Liveness probe passed for container app	0
+Error syncing pod: failed to 'StartContainer'	1
+Error syncing pod: failed to 'StartContainer'	1
+OOMKilled due to memory leak	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+Ingress configured correctly	0
+Pod scheduled on node gke-node-1	0
+Error: CrashLoopBackOff	1
+Node not ready: DiskPressure	1
+Error: CrashLoopBackOff	1
+Liveness probe failed: HTTP probe failed	1
+Error: CrashLoopBackOff	1
+Deployment scaled up successfully	0
+Error: CrashLoopBackOff	1
+Node joined the cluster	0
+Service created successfully	0
+Liveness probe failed: HTTP probe failed	1
+Error: CrashLoopBackOff	1
+Error: CrashLoopBackOff	1
+Liveness probe passed for container app	0
+ConfigMap mounted successfully	0
+Error syncing pod: failed to 'StartContainer'	1
+Ingress configured correctly	0
+ConfigMap mounted successfully	0
+Error: CrashLoopBackOff	1
+Readiness probe failed: timeout	1
+Liveness probe failed: HTTP probe failed	1
+Error: CrashLoopBackOff	1
+Node not ready: DiskPressure	1
+OOMKilled due to memory leak	1
+Container started successfully	0
+Ingress configured correctly	0
+Error syncing pod: failed to 'StartContainer'	1
+Ingress configured correctly	0
+Liveness probe failed: HTTP probe failed	1
+Liveness probe passed for container app	0
+Ingress configured correctly	0
+Liveness probe failed: HTTP probe failed	1
+MountVolume.SetUp failed: configmap not found	1
+Error: CrashLoopBackOff	1
+Error: CrashLoopBackOff	1
+Error syncing pod: failed to 'StartContainer'	1
+Liveness probe failed: HTTP probe failed	1
+Failed to pull image: rpc error unknown	1
+Successfully pulled image nginx:latest	0
+Failed to pull image: rpc error unknown	1
+Service created successfully	0
+Service created successfully	0
+Successfully pulled image nginx:latest	0
+Volume mounted at /data	0
+ImagePullBackOff: failed to pull image nginx:abc	1
+Service created successfully	0
+ConfigMap mounted successfully	0
+Node not ready: DiskPressure	1
+Pod scheduled on node gke-node-1	0
+Pod scheduled on node gke-node-1	0
+Readiness probe failed: timeout	1
+ConfigMap mounted successfully	0
+Failed to pull image: rpc error unknown	1
+Error syncing pod: failed to 'StartContainer'	1
+Container started successfully	0
+Successfully pulled image nginx:latest	0
+MountVolume.SetUp failed: configmap not found	1
+Service created successfully	0
+Node not ready: DiskPressure	1
+Pod scheduled on node gke-node-1	0
+Readiness probe failed: timeout	1
+Error: CrashLoopBackOff	1
+Liveness probe passed for container app	0
+Container started successfully	0
+Container started successfully	0
+Node not ready: DiskPressure	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+Deployment scaled up successfully	0
+Service created successfully	0
+Volume mounted at /data	0
+OOMKilled due to memory leak	1
+MountVolume.SetUp failed: configmap not found	1
+Container started successfully	0
+Error: CrashLoopBackOff	1
+Service created successfully	0
+Error syncing pod: failed to 'StartContainer'	1
+Liveness probe failed: HTTP probe failed	1
+Failed to pull image: rpc error unknown	1
+Error syncing pod: failed to 'StartContainer'	1
+Volume mounted at /data	0
+Failed scheduling pod: Insufficient memory	1
+Error syncing pod: failed to 'StartContainer'	1
+Node joined the cluster	0
+Error: CrashLoopBackOff	1
+Ingress configured correctly	0
+ConfigMap mounted successfully	0
+Liveness probe failed: HTTP probe failed	1
+OOMKilled due to memory leak	1
+MountVolume.SetUp failed: configmap not found	1
+Volume mounted at /data	0
+ImagePullBackOff: failed to pull image nginx:abc	1
+MountVolume.SetUp failed: configmap not found	1
+Liveness probe failed: HTTP probe failed	1
+Deployment scaled up successfully	0
+Error syncing pod: failed to 'StartContainer'	1
+Ingress configured correctly	0
+Container started successfully	0
+ConfigMap mounted successfully	0
+Failed to pull image: rpc error unknown	1
+Container started successfully	0
+Failed to pull image: rpc error unknown	1
+Readiness probe failed: timeout	1
+OOMKilled due to memory leak	1
+Ingress configured correctly	0
+Liveness probe failed: HTTP probe failed	1
+MountVolume.SetUp failed: configmap not found	1
+Service created successfully	0
+OOMKilled due to memory leak	1
+OOMKilled due to memory leak	1
+ConfigMap mounted successfully	0
+OOMKilled due to memory leak	1
+OOMKilled due to memory leak	1
+Failed scheduling pod: Insufficient memory	1
+OOMKilled due to memory leak	1
+Volume mounted at /data	0
+OOMKilled due to memory leak	1
+ConfigMap mounted successfully	0
+Node joined the cluster	0
+Ingress configured correctly	0
+MountVolume.SetUp failed: configmap not found	1
+Failed to pull image: rpc error unknown	1
+Failed to pull image: rpc error unknown	1
+ConfigMap mounted successfully	0
+Successfully pulled image nginx:latest	0
+ConfigMap mounted successfully	0
+Node not ready: DiskPressure	1
+Deployment scaled up successfully	0
+Service created successfully	0
+Volume mounted at /data	0
+Failed to pull image: rpc error unknown	1
+Error syncing pod: failed to 'StartContainer'	1
+Volume mounted at /data	0
+Service created successfully	0
+Readiness probe failed: timeout	1
+MountVolume.SetUp failed: configmap not found	1
+ImagePullBackOff: failed to pull image nginx:abc	1
+Pod scheduled on node gke-node-1	0

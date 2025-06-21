@@ -1,0 +1,1000 @@
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Error: CrashLoopBackOff\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "prediction": "anomaly", "confidence": "0.79"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "prediction": "anomaly", "confidence": "0.77"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "OOMKilled due to memory leak\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Node not ready: DiskPressure\t1", "prediction": "anomaly", "confidence": "0.74"}
+{"log": "Failed to pull image: rpc error unknown\t1", "prediction": "anomaly", "confidence": "0.84"}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "prediction": "anomaly", "confidence": "0.83"}
+{"log": "Readiness probe failed: timeout\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "prediction": "anomaly", "confidence": "0.80"}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "prediction": "anomaly", "confidence": "0.81"}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Error: CrashLoopBackOff\t1", "confidence": 0.77}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Liveness probe failed: HTTP probe failed\t1", "confidence": 0.79}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "Failed scheduling pod: Insufficient memory\t1", "confidence": 0.77}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "OOMKilled due to memory leak\t1", "confidence": 0.81}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Node not ready: DiskPressure\t1", "confidence": 0.74}
+{"log": "Failed to pull image: rpc error unknown\t1", "confidence": 0.84}
+{"log": "Error syncing pod: failed to 'StartContainer'\t1", "confidence": 0.83}
+{"log": "Readiness probe failed: timeout\t1", "confidence": 0.81}
+{"log": "MountVolume.SetUp failed: configmap not found\t1", "confidence": 0.8}
+{"log": "ImagePullBackOff: failed to pull image nginx:abc\t1", "confidence": 0.81}
